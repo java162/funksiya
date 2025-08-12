@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body audio {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+body {
+  padding-left: 30px;
+}
